@@ -1,0 +1,48 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/faces/jsf-api/1.2/jsf-api-1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/faces/jsf-impl/1.2/jsf-impl-1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/transaction/jta/1.0.1B/jta-1.0.1B.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/antlr/antlr/2.7.6/antlr-2.7.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/rave/web/ui/appbase/1.0/appbase-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/asm/asm/1.5.3/asm-1.5.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/asm/asm-attrs/1.5.3/asm-attrs-1.5.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/asm/asm-commons/3.0/asm-commons-3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/asm/asm-tree/3.0/asm-tree-3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/cglib/cglib/2.1_3/cglib-2.1_3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.4/commons-codec-1.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/2.1.1/commons-collections-2.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.3/commons-lang-2.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/emf/ecore/2.1.0/ecore-2.1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sf/ehcache/ehcache/1.2.3/ehcache-1.2.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/jgoodies/forms/1.1-preview/forms-1.1-preview.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/intellij/forms_rt/7.0.3/forms_rt-7.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate/3.2.1.ga/hibernate-3.2.1.ga.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/toedter/jcalendar/1.3.2/jcalendar-1.3.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jdom/jdom/1.1.1/jdom-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.8.2/junit-4.8.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/zeromq/jzmq/2.1.0-SNAPSHOT/jzmq-2.1.0-SNAPSHOT.jar" sourcepath="M2_REPO/org/zeromq/jzmq/2.1.0-SNAPSHOT/jzmq-2.1.0-SNAPSHOT-sources.jar">
+    <attributes>
+      <attribute value="jar:file:/home/itiu/.m2/repository/org/zeromq/jzmq/2.1.0-SNAPSHOT/jzmq-2.1.0-SNAPSHOT-javadoc.jar!/" name="javadoc_location"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/emf/org.eclipse.emf.common/2.6.0.v20100614-1136/org.eclipse.emf.common-2.6.0.v20100614-1136.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/gost19/pacahon/client/pacahon-client/0.4-SNAPSHOT/pacahon-client-0.4-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/saxon/saxon/9/saxon-9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/saxon9-dom/saxon9-dom/9/saxon9-dom-9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/saxon9-jdom/saxon9-jdom/9/saxon9-jdom-9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/saxon9-s9api/saxon9-s9api/9/saxon9-s9api-9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jdesktop/swing-layout/1.0.4/swing-layout-1.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jdesktop/swing-worker/1.1/swing-worker-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/rave/webui/1.0/webui-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/xerces/xercesImpl/2.2.1/xercesImpl-2.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/xsd/xsd/2.1.1/xsd-2.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/yawl/yawl-engine/0.0.2-SNAPSHOT/yawl-engine-0.0.2-SNAPSHOT.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+</classpath>
