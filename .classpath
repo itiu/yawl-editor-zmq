@@ -33,7 +33,7 @@
   </classpathentry>
   <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/eclipse/emf/org.eclipse.emf.common/2.6.0.v20100614-1136/org.eclipse.emf.common-2.6.0.v20100614-1136.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/gost19/pacahon/client/pacahon-client/0.4-SNAPSHOT/pacahon-client-0.4-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/gost19/pacahon/client/pacahon-client/0.5-SNAPSHOT/pacahon-client-0.5-SNAPSHOT.jar"/>
   <classpathentry kind="var" path="M2_REPO/saxon/saxon/9/saxon-9.jar"/>
   <classpathentry kind="var" path="M2_REPO/saxon9-dom/saxon9-dom/9/saxon9-dom-9.jar"/>
   <classpathentry kind="var" path="M2_REPO/saxon9-jdom/saxon9-jdom/9/saxon9-jdom-9.jar"/>
